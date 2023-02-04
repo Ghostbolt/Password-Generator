@@ -1,2 +1,2 @@
 # Password-Generator
-Password Generator using python
+Password Generator using C
